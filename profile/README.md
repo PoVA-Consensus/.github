@@ -1,7 +1,7 @@
+![header](header.png)
 # PoVA - A blockchain consensus mechanism for securing IoT networks
 
 This organization contains the codebase for the demonstration of our proposed design.
-
 ## Repositories
 |S.L. No.| Name | Description | 
 | -------- | ----- |-------- | 
