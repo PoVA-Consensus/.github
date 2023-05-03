@@ -1,4 +1,4 @@
-![header](header.png)
+![header](https://github.com/PoVA-Consensus/.github/blob/main/profile/header.png)
 # PoVA - A blockchain consensus mechanism for securing IoT networks
 
 This organization contains the codebase for the demonstration of our proposed design.
